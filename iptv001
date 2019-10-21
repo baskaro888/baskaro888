@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,TRT 1 HD
-http://163.172.33.168:22500/deniz/27012019/8625
+#EXTINF:-1,RTM 1
+https://myklik.rtm.gov.my/live.php?ch=1
 #EXTINF:-1,TRT 1 ULTRA HD
 http://163.172.33.168:22500/deniz/27012019/2399
 #EXTINF:-1,SHOW TV HD
